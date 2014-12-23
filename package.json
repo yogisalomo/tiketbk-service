@@ -1,0 +1,13 @@
+{
+  "name": "uas-pat",
+  "version": "0.1.2",
+  "description": "Untuk memenuhi Kuliah IF4031",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "mongoose":"*"
+  }
+}
